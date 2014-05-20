@@ -9,7 +9,7 @@ namespace Tetris
     public class Kare
     {
         public Kare()
-        { }
+        { }//abdullah
         StaticVeriler.Yon yon;
         PictureBox picturebox;
         System.Drawing.Color renk;
