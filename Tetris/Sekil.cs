@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApplication17
+namespace Tetris
 {
-    class Sekil
+    public class Sekil
     {
 
         int maxKareSayisi;

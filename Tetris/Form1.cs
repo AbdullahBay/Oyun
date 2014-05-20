@@ -8,18 +8,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication17
+namespace Tetris
 {
     public partial class Form1 : Form
     {
         public Form1()
         {
             InitializeComponent();
+            timer1.Start();
+            FormKontrol fk = new FormKontrol(50,50);
+            fk.OyunAlaniOlustur(this);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            //pictureBox1.Size = new Size(new System.Drawing.Point(pictureBox1.Width+10,pictureBox1.Height+10));
         }
     }
 }

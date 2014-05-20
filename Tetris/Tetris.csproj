@@ -7,7 +7,7 @@
     <ProjectGuid>{E53AA1B3-96EC-4AA5-AB25-210A7FAEEC0A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication17</RootNamespace>
+    <RootNamespace>Tetris</RootNamespace>
     <AssemblyName>WindowsFormsApplication17</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -50,6 +50,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormKontrol.cs" />
     <Compile Include="Kare.cs" />
     <Compile Include="OyunAlani.cs" />
     <Compile Include="Program.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="ClassDiagram1.cd" />
     <None Include="Properties\Settings.settings">

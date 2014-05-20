@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace WindowsFormsApplication17
+namespace Tetris
 {
     public class Taban
     { 
@@ -19,7 +19,7 @@ namespace WindowsFormsApplication17
 
          public Boolean CarpismaKontrol(Sekil sekil)
          {
-             throw new System.NotImplementedException();
+             return true;
          }
 
          public void TabanaEkle(Sekil sekil)
