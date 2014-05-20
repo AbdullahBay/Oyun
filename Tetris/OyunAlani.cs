@@ -32,7 +32,7 @@ namespace Tetris
             this.genislik = genislik;
         }
 
-       
+       // oğuz
 
         public void KenarKontrol()
         {
