@@ -13,7 +13,7 @@ namespace Tetris
         int oyunAlaniTop;
         public FormKontrol()
         {
-            
+            //abdullah
         }
         public FormKontrol(int oyunAlaniLeft,int oyunAlaniTop)
         {
