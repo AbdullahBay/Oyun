@@ -11,7 +11,7 @@ namespace Tetris
         private Taban taban;
         private Sekil sekil;
         private int yukseklik;
-
+        // abdullah
         public int Yukseklik
         {
             get { return yukseklik; }
