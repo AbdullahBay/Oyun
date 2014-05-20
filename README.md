@@ -1,3 +1,0 @@
-Oyun
-====
-nkçön mxçöc.xz
