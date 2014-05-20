@@ -8,7 +8,7 @@ namespace Tetris
 {
     public class Sekil
     {
-
+        //deneme
         int maxKareSayisi;
         Kare[] kareler=new Kare [5];
         int karesayisi;
