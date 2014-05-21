@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Tetris
 {
@@ -37,6 +38,13 @@ namespace Tetris
         public void KenarKontrol()
         {
             
+        }
+        public void SekilGoster(Form form)
+        {
+            sekil = new L();
+            sekil.olustur();
+            sekil.Goster(form);
+
         }
     }
 }

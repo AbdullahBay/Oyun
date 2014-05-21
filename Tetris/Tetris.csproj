@@ -52,7 +52,6 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="FormKontrol.cs" />
-    <Compile Include="ISekil.cs" />
     <Compile Include="Kare.cs" />
     <Compile Include="L.cs" />
     <Compile Include="Nokta.cs" />

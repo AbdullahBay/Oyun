@@ -10,7 +10,7 @@
   <Class Name="Tetris.Sekil">
     <Position X="0.5" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>IgAAABACAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>IgAAABACAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAEA=</HashCode>
       <FileName>Sekil.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -52,16 +52,9 @@
   <Class Name="Tetris.L">
     <Position X="4.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>L.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Interface Name="Tetris.ISekil" Collapsed="true">
-    <Position X="6" Y="0.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>IgAAABACAAAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>ISekil.cs</FileName>
-    </TypeIdentifier>
-  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

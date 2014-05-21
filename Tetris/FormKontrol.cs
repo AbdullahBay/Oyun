@@ -31,7 +31,9 @@ namespace Tetris
             pbOyunAlani.Width = oyunAlani.Genislik;
             pbOyunAlani.Left = oyunAlaniLeft;
             pbOyunAlani.Top = oyunAlaniTop;
-            form.Controls.Add(pbOyunAlani);
+            pbOyunAlani.SendToBack();
+            //form.Controls.Add(pbOyunAlani);
+            oyunAlani.SekilGoster(form);
 
         }
     }
